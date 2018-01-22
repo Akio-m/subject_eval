@@ -11,9 +11,11 @@
 ランダム試行機能についてはpythonで実装しています.
 
 ## 動作環境
-node v8.4.0
-electron v1.6.11
-python3 3.6
+node == v8.4.0
+
+electron == v1.6.11
+
+python3 == 3.6
 
 ## 動作確認
 1. Install `Node.js` and `electron` yourself.
